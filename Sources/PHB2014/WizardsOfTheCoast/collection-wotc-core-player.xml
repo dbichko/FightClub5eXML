@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<collection xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include pubdate="2014-08-19" source="Player's Handbook (2014)" href="01_Core/01_Players_Handbook/source-phb.xml" xpointer="xpointer(/source/collection/doc)" />
+  <xi:include pubdate="2015-11-03" source="Sword Coast Adventurer's Guide" href="03_Campaign_Settings/Sword_Coast_Adventurers_Guide/source-scag.xml" xpointer="xpointer(/source/collection/doc)" />
+  <xi:include pubdate="2016-11-15" source="Xanathar's Guide to Everything" href="02_Supplements/Xanathars_Guide_to_Everything/source-xge.xml" xpointer="xpointer(/source/collection/doc)" />
+  <xi:include pubdate="2020-11-17" source="Tasha's Cauldron of Everything" href="02_Supplements/Tashas_Cauldron_of_Everything/source-tce.xml" xpointer="xpointer(/source/collection/doc)" />
+</collection>
